@@ -2,7 +2,7 @@
 
 ## Description
 
-The Handwritten Digit Predictor is a Flutter-based mobile app that uses a custom machine-learning model to predict handwritten digits. It offers two modes of input: image upload and on-screen drawing, making it a handy tool for digit recognition.
+The Handwritten Digit Predictor is a Flutter-based mobile app that uses a custom machine-learning model to predict handwritten digits. It offers two modes of input: image upload and on-screen drawing.
 
 
 ## Usage
