@@ -17,5 +17,4 @@ The Handwritten Digit Predictor is a Flutter-based mobile app that uses a custom
 
 ## Screenshots
 
-<img src="img1.PNG" width="100"/>
-<img src="img2.PNG" width="100"/> 
+<img src="img1.PNG" width="100"/> <img src="img2.PNG" width="100"/> 
