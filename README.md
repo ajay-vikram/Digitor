@@ -15,6 +15,25 @@ The Handwritten Digit Predictor is a Flutter-based mobile app that uses a custom
 
 3. The prediction is displayed below the image.
 
+## Running the iOS App in Xcode
+
+If you prefer to use Xcode for iOS development, follow these steps:
+
+1. **Open the Project in Xcode**:
+   - Open a terminal window.
+   - Navigate to your project directory using the `cd` command.
+   - Open the Xcode project for your app with the following command:
+     ```bash
+     open ios/Runner.xcworkspace
+     ```
+   
+2. **Select a Target Device**:
+   - In Xcode, use the device selector in the toolbar to choose the target device. This can be a physical iOS device connected to your Mac or an iOS simulator.
+
+3. **Build and Run**:
+   - Click the "Run" button in the top-left corner of Xcode.
+   - Xcode will build and deploy the app to the selected iOS device or simulator.
+
 ## Screenshots
 
 <img src="img1.PNG" width="100"/> <img src="img2.PNG" width="100"/> 
